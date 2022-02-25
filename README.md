@@ -2,7 +2,7 @@
 
 	A minimal framework needed to start an http server application in Rust.
 
-##Dependencies:
+## Dependencies:
 	Actix-web
 	Rusqlite
 	Time
